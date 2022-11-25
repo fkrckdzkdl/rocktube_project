@@ -1,0 +1,31 @@
+.HeaderWrapper{
+    height: 56px;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.Logo{
+    width: 8rem;
+    height: 3rem;
+}
+.SurchBox{
+    width: 50%;
+}
+.SurchBar{
+    width:80%;
+    height: 2.5rem;
+    border-top-left-radius: 1.25rem;
+    border-bottom-left-radius: 1.25rem;
+}
+.surchButton{
+    padding-bottom: 4px;
+    padding-top: 3px;
+    width: 5rem;
+    height: 2.9rem;
+    border-top-right-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+}
