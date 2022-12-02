@@ -1,28 +1,12 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Main from './components/Main';
-import RootRouter from './router/RootRouter';
-import styles from './App.module.css';
-
-
-const router = createBrowserRouter([
-  {
-    path:'/',
-    element: <RootRouter />,
-    errorElement: <p>Not Found</p>,
-    children: [
-      {index:true, element:<Main />}
-      
-    ]
-  },
-
-]);
+import { Outlet } from 'react-router-dom';
+import SearchHeader from './components/SearchHeader';
 
 function App() {
   return (
-    <div className={styles.app}>
-    <RouterProvider router={router}>
-    </RouterProvider>
-    </div>
+    <>
+      <SearchHeader />
+      <Outlet />
+    </>
   );
 }
 
