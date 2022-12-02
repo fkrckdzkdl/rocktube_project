@@ -1,0 +1,850 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "r-i5G3wfkgQPOZENGHbbDyO8BmY",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 544506,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "xTka87NaGXp-KCRyF2NreoNDY5Y",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ"
+          },
+          "snippet": {
+              "publishedAt": "2014-09-30T07:40:14Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "침착맨",
+              "description": "반갑습니다. 오늘도 즐거운 날입니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-OoCj8oG4hssfpUAvZ5EPCjBu21krVcB6tkVFsQA=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-OoCj8oG4hssfpUAvZ5EPCjBu21krVcB6tkVFsQA=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-OoCj8oG4hssfpUAvZ5EPCjBu21krVcB6tkVFsQA=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "upcoming",
+              "publishTime": "2014-09-30T07:40:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "DImGLgy96lDyAONS4Wzwn7uQYWo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "1KcPgDME3oI"
+          },
+          "snippet": {
+              "publishedAt": "2022-12-01T04:00:01Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "방랑화가 이병건 | 예고편",
+              "description": "본편 •2022년 12월 7일 수요일 19:00 공개 ▷제작 •출연: 통닭천사(@통닭천사의 깔깔튜브 ), 침착맨 •기획/연출: 류지명, 한동규, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/1KcPgDME3oI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/1KcPgDME3oI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/1KcPgDME3oI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-01T04:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "DfOWTL6V0JlGG_KacumP3KgMSBk",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCewitUbsXnyjvJjGgxa0IYw"
+          },
+          "snippet": {
+              "publishedAt": "2019-05-11T13:38:24Z",
+              "channelId": "UCewitUbsXnyjvJjGgxa0IYw",
+              "title": "침착맨 원본 박물관",
+              "description": "침착맨 생방송의 원본을 올립니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-W6oKMm-p4cDLGuikT638fYl4U_Lwgefo3Yvrz=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-W6oKMm-p4cDLGuikT638fYl4U_Lwgefo3Yvrz=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-W6oKMm-p4cDLGuikT638fYl4U_Lwgefo3Yvrz=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "침착맨 원본 박물관",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-05-11T13:38:24Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "kC1GonhYzbvF9LVQO56BXPtPXjc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "rHckfTcPKCE"
+          },
+          "snippet": {
+              "publishedAt": "2022-12-01T08:00:20Z",
+              "channelId": "UCC1LvVTX2ySKYjeIXkAtvsQ",
+              "title": "폴다운 코미디",
+              "description": "2022년 11월 29일 방송분 (https://youtu.be/xPLwCfxN4dw)",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/rHckfTcPKCE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/rHckfTcPKCE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/rHckfTcPKCE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨 플러스",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-01T08:00:20Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3Gn_C0eCxF2bXi7uGbRerWCEYv0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "0AD-KXIgSfk"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-30T10:00:00Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "다시 지은 웃음의 알렉산드리아 도서관",
+              "description": "관련 영상 •웃음의 알렉산드리아 도서관: https://youtu.be/P3OKINQnpuk ▷관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0AD-KXIgSfk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0AD-KXIgSfk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0AD-KXIgSfk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-30T10:00:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3RQVA2mbAXCeSASyJA4sp3UdWlE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "AzqPWrdUifA"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-24T18:21:25Z",
+              "channelId": "UCewitUbsXnyjvJjGgxa0IYw",
+              "title": "2022년 11월 25일 | 카타르 월드컵 조별리그 H조 &#39;포르투갈 vs 가나&#39; 관전",
+              "description": "2022년 침착맨 개인방송 원본 https://www.youtube.com/playlist?list=PLa-pNFfK2krIvgs7e9RbMemKltzwX8Y7c ▷이전 침착맨 개인 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AzqPWrdUifA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AzqPWrdUifA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AzqPWrdUifA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨 원본 박물관",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-24T18:21:25Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "ib-F0lcxo_3qn7XLe6IXvs6vpyM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zOLE3mr9NbA"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-25T10:00:47Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "침착맨의 군대 이야기",
+              "description": "관련 영상 •【침착맨】 당나라 군대 체험기: https://youtu.be/3x0Z1ChAFc0 ▷관련 재생목록 •침착맨의 일상재롱: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zOLE3mr9NbA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zOLE3mr9NbA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zOLE3mr9NbA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-25T10:00:47Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_WikuZd29Tjf5NYH425uiV1IF7k",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "6Hq9LzvbE7Y"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-24T10:00:03Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "계속되는 토크와 야추다이스 대결",
+              "description": "관련 영상 •1123 올빼미팀 화이팅: https://youtu.be/LWYRaJA8TSs ▷관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/6Hq9LzvbE7Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/6Hq9LzvbE7Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/6Hq9LzvbE7Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-24T10:00:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "wVu38vi5VTI_Z7jyAIxzZsOHP1E",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "UCWzhbcJfxM"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-30T12:00:13Z",
+              "channelId": "UCC1LvVTX2ySKYjeIXkAtvsQ",
+              "title": "침&amp;펄 | 언래블 투(Unravel Two) | 이어진 두 실뭉치들의 협동 게임",
+              "description": "관련 재생목록 •침착맨 풀버전: https://youtube.com/playlist?list=PLrTC7IMrpfqLDKYix1s9XW4rD3f3A4cfX ▷생방송 원본 • 2022년 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UCWzhbcJfxM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UCWzhbcJfxM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UCWzhbcJfxM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨 플러스",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-30T12:00:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "DBpyqOhl6Tr-3dz_3ECYB0-DHQI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "O9lvwW50KK4"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-23T12:00:15Z",
+              "channelId": "UCC1LvVTX2ySKYjeIXkAtvsQ",
+              "title": "배도라지 합방 | 히어로즈 오브 해머워치 | 주호민 매직박 승우아빠 단군 철면수심 침착맨",
+              "description": "관련 영상 •11/02 히어로즈 오브 해머워치 | 주호민 포도네 승우아빠 침착맨: https://youtu.be/GTYZyQsSp9A ▷관련 재생목록 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/O9lvwW50KK4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/O9lvwW50KK4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/O9lvwW50KK4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨 플러스",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-23T12:00:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "GUNyIVMX_zJGI7QErmWaKcLSp4M",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "nYGtWtPaSak"
+          },
+          "snippet": {
+              "publishedAt": "2022-12-01T12:00:32Z",
+              "channelId": "UCC1LvVTX2ySKYjeIXkAtvsQ",
+              "title": "침착맨 노래방 | &#39;비와 당신&#39; 외 7곡",
+              "description": "관련 재생목록 •졸음퇴치 침착맨 노래방: https://youtube.com/playlist?list=PLrTC7IMrpfqIeMTyJ_pZaYk_qPtcX9Xoq ▷생방송 원본 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/nYGtWtPaSak/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/nYGtWtPaSak/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/nYGtWtPaSak/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨 플러스",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-01T12:00:32Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "IvBIqj34xrHwEQkQqCSbY3JqJ8Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fA5BhaxRvN0"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-18T10:00:33Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "가수 비비 초대석",
+              "description": "관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ▷생방송 원본 •2022년 11월 13일 방송분 ▷출연 •비비(@BIBI), 침착맨 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fA5BhaxRvN0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fA5BhaxRvN0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fA5BhaxRvN0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-18T10:00:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "QQkKVXnGYlklD90bZ_5uJKF6iek",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "tdmX1lV0JjQ"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-26T10:00:30Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "나르시시스트에게 복수하는 법",
+              "description": "관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ▷생방송 원본 •2022년 11월 7일 방송분: https://youtu.be/qm-XwouuJIo ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tdmX1lV0JjQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tdmX1lV0JjQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tdmX1lV0JjQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-26T10:00:30Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "BXunOa0o8dBEcbrxPXFtGt0HDJE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "oiFMy3eW9qE"
+          },
+          "snippet": {
+              "publishedAt": "2022-10-21T10:00:42Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "뉴욕에 여행을 간다면",
+              "description": "관련 영상 •미국 여행은 어디까지 대체 가능한가: https://youtu.be/qC6cfbIgkAM ▷관련 재생목록 •침착맨의 일상재롱: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/oiFMy3eW9qE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/oiFMy3eW9qE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/oiFMy3eW9qE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-21T10:00:42Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "l6g8N8lOaWOXJgQ_F5tp0I8cW4Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "SlByJ7nfmBM"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-29T10:00:14Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "랜덤 식재료로 만들어 먹기",
+              "description": "관련 영상 •아빠손 볶음밥: https://youtu.be/pT0XCoUbKVg ▷관련 재생목록 •  ‍  불만 피우면 쿡방: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/SlByJ7nfmBM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/SlByJ7nfmBM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/SlByJ7nfmBM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-29T10:00:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "J3B2FCLOyfXUYd9ao0x9XbmIoVE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "vEf18OWCwHU"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-28T10:00:39Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "여자 친구랑 생리현상을 언제 트나요?",
+              "description": "관련 영상 •한 번 차였던 여사친에게 다시 고백해도 될까요?: https://youtu.be/GEDRJrs02qU ▷관련 재생목록 •침착맨의 일상재롱: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/vEf18OWCwHU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/vEf18OWCwHU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/vEf18OWCwHU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-28T10:00:39Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "tyRp-H6qWlvKJk8F1rMIpVo5xvU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "LWYRaJA8TSs"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-23T10:00:10Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "1123 올빼미팀 화이팅",
+              "description": "관련 영상 •LOL 조밥대전 풀버전: https://youtu.be/aNi0F8KQ7Jo ▷관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/LWYRaJA8TSs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/LWYRaJA8TSs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/LWYRaJA8TSs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-23T10:00:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "34GjSqryklQLproFWS8uyXb3iTE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "nJ89LOjq-gA"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-22T10:00:34Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "강상무상무상의 침착맨 합성하기",
+              "description": "11월 25일까지 제공되는 한정 특가를 놓치지 마세요! Creative Cloud 40% 할인! 학생이라면 최대 70% 할인! □ 특가로 구독하기 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/nJ89LOjq-gA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/nJ89LOjq-gA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/nJ89LOjq-gA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-22T10:00:34Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Una8uJTu4rpA32W6rh3oP_JQdaQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "UWcgWLph_os"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-06T10:00:17Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "거울치료",
+              "description": "관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ▷생방송 원본 •2022년 10월 28일 방송분 └ 클라스크 풀버전: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UWcgWLph_os/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UWcgWLph_os/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UWcgWLph_os/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-06T10:00:17Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "o28pH_Ax0g-A6tkIX12vFRVC8cE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "EN8umXVj-YA"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-05T10:00:16Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "다 못 한 게시판 같이 보기",
+              "description": "관련 영상 •우리집 애완동물 자랑하기: https://youtu.be/zgcvxcWpeSo •침착맨 냉라면 vs 시청자 요리: https://youtu.be/UCbddul8sJk ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/EN8umXVj-YA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/EN8umXVj-YA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/EN8umXVj-YA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-05T10:00:16Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "n6rPzPeLQZdfln58fhxxjcMP2Kw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5_l_uCW-fVA"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-09T10:00:02Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "떡갈비 도시락과 일론머스크의 국토대장정",
+              "description": "관련 재생목록 •침착맨의 식욕저하 다이어트 먹방: https://url.kr/a4vk8m ▷생방송 원본 •2022년 11월 4일 방송분: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5_l_uCW-fVA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5_l_uCW-fVA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5_l_uCW-fVA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-09T10:00:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "QNVwdW0s5G_Qet-gsRFGJqnYUag",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bTAYesB82r4"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-22T16:10:07Z",
+              "channelId": "UCewitUbsXnyjvJjGgxa0IYw",
+              "title": "2022년 11월 22일 2부 | 멤버십 채팅 테스트, 마블스냅, 삼국지 서바이버즈, 노노그램",
+              "description": "2022년 침착맨 개인방송 원본 https://www.youtube.com/playlist?list=PLa-pNFfK2krIvgs7e9RbMemKltzwX8Y7c ▷이전 침착맨 개인 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bTAYesB82r4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bTAYesB82r4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bTAYesB82r4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨 원본 박물관",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-22T16:10:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "H0We1KmFjdR1aDSFye8SeCevCrE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FMN-tz6QhTY"
+          },
+          "snippet": {
+              "publishedAt": "2022-10-25T10:00:14Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "사랑의 매",
+              "description": "관련 영상 •모범시민의 운전법: https://youtu.be/JD-TLZvNE9Q ▷관련 재생목록 •침착맨의 짧게 한 게임들: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FMN-tz6QhTY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FMN-tz6QhTY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FMN-tz6QhTY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-25T10:00:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "5aDNPgfL4zTYp4VdrROq9caNKOU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "YqUBeniadKM"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-19T10:00:32Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "어색한 모임에서 친해지는 법",
+              "description": "관련 재생목록 •침착맨의 일상재롱: https://goo.gl/OJ4Uoa ▷생방송 원본 •2022년 11월 15일 방송분: https://youtu.be/I0ycZjWxzVU ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/YqUBeniadKM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/YqUBeniadKM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/YqUBeniadKM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-19T10:00:32Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "QJG9pLt4ZV7h6OFrLY7g3DSRHsk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "0xckfkBis2U"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-20T10:00:00Z",
+              "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+              "title": "(배불러도 남기지)마라샹궈",
+              "description": "관련 영상 •전무님과 (하나도 빼지)마라샹궈: https://youtu.be/-xICFR9I6Ls ▷관련 재생목록 •침착맨의 식욕저하 다이어트 먹방: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0xckfkBis2U/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0xckfkBis2U/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0xckfkBis2U/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "침착맨",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-20T10:00:00Z"
+          }
+      }
+  ]
+}
